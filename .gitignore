@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.egg-info/
+samples/
+output/
+research/
+.s2g/
+*.s2g.json
+*.ARW
+*.arw
