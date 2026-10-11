@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "calibrated": false,
+  "looks": {
+    "neutral_v1": {"label": "中性", "exposure": 0, "saturation": 1, "black_lift": 0, "shadow_tint": [0, 0, 0], "highlight_tint": [0, 0, 0], "tone_x": [-16, -8, -5, -3, -1, 0, 2, 6, 12], "tone_y": [-16, -8, -5, -3, -1, 0, 2, 6, 12]},
+    "gr_positive_experimental_v1": {"label": "正片 · 实验版", "exposure": -0.2, "saturation": 1.08, "black_lift": 0, "shadow_tint": [-0.004, 0.001, 0.004], "highlight_tint": [0.004, 0.001, -0.003], "tone_x": [-16, -8, -5, -3, -1, 0, 2, 6, 12], "tone_y": [-16.2, -8.25, -5.3, -3.2, -0.96, 0.06, 1.9, 5.6, 11]},
+    "gr_negative_experimental_v1": {"label": "负片 · 实验版", "exposure": 0.18, "saturation": 0.93, "black_lift": 0.022, "shadow_tint": [-0.001, 0, 0.001], "highlight_tint": [0.004, 0.001, -0.002], "tone_x": [-16, -8, -5, -3, -1, 0, 2, 6, 12], "tone_y": [-15.7, -7.7, -4.75, -2.9, -1.12, -0.2, 1.65, 5.3, 11]}
+  }
+}

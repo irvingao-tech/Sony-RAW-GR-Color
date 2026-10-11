@@ -1,0 +1,11 @@
+{
+  "id": "sony_a7c2_libraw_v1",
+  "version": 1,
+  "camera": "ILCE-7CM2",
+  "calibrated": false,
+  "source": "LibRaw 0.22.1 A7C II built-in cam_xyz coefficients",
+  "xyz_d65_to_camera": [[0.746, -0.2365, -0.0588], [-0.5687, 1.3442, 0.2474], [-0.0624, 0.1156, 0.6584]],
+  "derivation": "Normalize rows of cam_xyz * sRGB_to_XYZ, invert, then convert sRGB to XYZ D65; matches LibRaw cam_xyz_coeff direction.",
+  "white_adaptation": "Bradford D65 to ACES white xy 0.32168 0.33767",
+  "limitations": "Single built-in matrix; not a fitted dual-illuminant DCP or calibrated Sony to Ricoh match."
+}

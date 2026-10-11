@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "calibrated": false,
+  "provenance": "S2G authored experimental parameters; structure informed by Hncs and sony-pmca-ricoh-mod. No Ricoh firmware or paired GR measurements.",
+  "looks": {
+    "gr_positive_experimental_v2": {
+      "label": "正片 V2 · 实验版", "exposure": -0.23,
+      "tone_x": [-16, -8, -5, -3, -1, 0, 2, 6, 12],
+      "tone_y": [-16.2, -8.3, -5.35, -3.17, -0.93, 0.05, 1.9, 5.7, 11.5],
+      "matrix_linear_srgb": [[1.04, 0.01, -0.05], [-0.015, 1.035, -0.02], [0.01, 0.045, 0.945]],
+      "matrix_mix": 0.55, "saturation": 1.04, "skin_protection": 0.8,
+      "hue_sectors": [[265, 35, -5, 1.09], [145, 32, -7, 0.95], [28, 22, 0, 0.94]],
+      "shadow_ab": [-0.003, -0.005], "highlight_ab": [0.001, 0.004],
+      "black_lift_encoded": 0.002
+    },
+    "gr_negative_experimental_v2": {
+      "label": "负片 V2 · 实验版", "exposure": 0.23,
+      "tone_x": [-16, -8, -5, -3, -1, 0, 2, 6, 12],
+      "tone_y": [-15.8, -7.8, -4.8, -2.95, -1.12, -0.16, 1.72, 5.6, 11.5],
+      "matrix_linear_srgb": [[0.97, -0.005, 0.035], [0.02, 0.955, 0.025], [0.005, 0.025, 0.97]],
+      "matrix_mix": 0.5, "saturation": 0.95, "skin_protection": 0.8,
+      "hue_sectors": [[265, 38, -3, 0.91], [145, 32, -5, 0.91], [28, 22, 0, 0.96]],
+      "shadow_ab": [-0.002, -0.003], "highlight_ab": [0.002, 0.006],
+      "black_lift_encoded": 0.026
+    }
+  }
+}

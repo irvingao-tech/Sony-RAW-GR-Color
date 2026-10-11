@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "space": "Oklab D65",
+  "vibrance_gain": 0.7,
+  "vibrance_chroma_scale": 0.18,
+  "skin_hue_degrees": 55,
+  "skin_hue_width": 24,
+  "skin_chroma_center": 0.09,
+  "skin_chroma_width": 0.1,
+  "skin_protection": 0.8,
+  "gamut_bisections": 16,
+  "note": "Authored heuristic controls; no Ricoh reference fitting. Gamut reduction preserves Oklab lightness and hue up to numerical error."
+}

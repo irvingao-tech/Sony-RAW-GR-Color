@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-11",
+  "snapshots": [
+    {
+      "file": "hncs_engine.py",
+      "url": "https://raw.githubusercontent.com/songjiun10-collab/Hncs/main/core/engine.py",
+      "sha256": "8a358afd90a4d2f04e0973a6a0c545cdbc41cf5f100962c1314b761e7791b0de"
+    },
+    {
+      "file": "hncs-brands.md",
+      "url": "https://raw.githubusercontent.com/songjiun10-collab/Hncs/main/docs/brands.en.md",
+      "sha256": "f4c64c1da2e0fdb1248bc8aef66d680adc95979efd3e318e3416f7b4229c7e04"
+    },
+    {
+      "file": "hncs-ricoh.py",
+      "url": "https://raw.githubusercontent.com/songjiun10-collab/Hncs/5f1dd7e8f4fa64b16032842e4be50208c16a4140/brands/ricoh_gr/look.py",
+      "sha256": "f29a571b0bfd8c8250b91925d7efa7ff08f341c7daf796b26185544568c0d7e2"
+    },
+    {
+      "file": "sony_mod_generator.py",
+      "url": "https://raw.githubusercontent.com/bonyback1/sony-pmca-ricoh-mod/main/tools/generate_ricoh_hook.py",
+      "sha256": "721ee8f59f34f73f836a4a98d60c9ef0a242a2fc1880757fffdf81a1e0521953"
+    },
+    {
+      "file": "RICOH-GR-III.dcp",
+      "url": "https://raw.githubusercontent.com/RawTherapee/RawTherapee/dev/rtdata/dcpprofiles/RICOH%20GR%20III.dcp",
+      "sha256": "76f558700633070776e146012b821e721d469d1ae95012020ac871eb93ba24d1"
+    },
+    {
+      "file": "HNCS-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/songjiun10-collab/Hncs/main/LICENSE",
+      "sha256": "71751cd68da73677ef6efb173153c4c50565f64c4877d4991793af3f4392d33a"
+    },
+    {
+      "file": "SONY-MOD-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/bonyback1/sony-pmca-ricoh-mod/main/LICENSE",
+      "sha256": "c3518893541450ea5f82aa4b04a7df590d0d7086aafd785f2d858bc99d13f561"
+    }
+  ]
+}
